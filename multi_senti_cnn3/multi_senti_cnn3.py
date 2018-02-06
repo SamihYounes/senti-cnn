@@ -1,4 +1,4 @@
-# Create your first MLP in Keras
+
 import numpy
 import re
 import os.path
